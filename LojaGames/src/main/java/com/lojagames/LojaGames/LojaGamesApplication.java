@@ -1,13 +1,13 @@
-package br.com.lojadegames.lojadegames;
+package com.lojagames.LojaGames;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class LojadegamesApplication {
+public class LojaGamesApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(LojadegamesApplication.class, args);
+		SpringApplication.run(LojaGamesApplication.class, args);
 	}
 
 }
